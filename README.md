@@ -62,28 +62,34 @@ laboratorio_drybean_ml/
 
 ---
 
-# 👥 Equipo y Roles (Scrum ML)
+## 👥 Equipo y Roles (Scrum ML)
 
-| Rol | Responsable | Responsabilidades |
-|------|-------------|-------------------|
-| 📌 Product Owner | Martín H. | Definir objetivos y priorizar tareas |
-| ⚡ Scrum Master | Deybar Mora | Coordinar el proceso y remover impedimentos |
-| 🧹 Data Engineer / Analyst | Luisa Candelo | Limpieza, transformación y análisis de datos |
-| 🤖 ML Engineer | Valentina Sierra / Jahir Giraldo | Entrenamiento, evaluación y despliegue |
+| Rol                        | Responsable                | GitHub                    | Responsabilidades |
+|---------------------------|----------------------------|---------------------------|-------------------|
+| **Product Owner**         | Martín Herrera             | @martinherrera-144        | Definir objetivos y priorizar tareas |
+| **Scrum Master**          | Deybar Mora                | @deybar                   | Coordinar el proceso y remover impedimentos |
+| **Data Engineer / Analyst** | Luisa Candelo            | @LuisaCandelo             | Limpieza, transformación y análisis de datos |
+| **ML Engineer**           | Valentina Sierra / Jahir Giraldo | @Valentinasierra98 / @JahirSnake | Entrenamiento, evaluación y despliegue |
 
 ---
 
-# 📋 Product Backlog
+## 📋 Project Board (Scrum)
 
-| ID | Historia de Usuario |
-|----|----------------------|
-| PB-01 | Descargar y cargar el dataset Dry Bean (UCI) |
-| PB-02 | Realizar análisis exploratorio y validación de calidad |
-| PB-03 | Entrenar modelo baseline (Logistic Regression) |
-| PB-04 | Entrenar modelo avanzado (Random Forest) |
-| PB-05 | Evaluar métricas (Accuracy y F1 Macro) |
-| PB-06 | Generar matriz de confusión y análisis |
-| PB-07 | Guardar modelos y documentar resultados |
+**Seguimiento del proyecto:**  
+[🔗 Scrum ML - Dry Bean Dataset (Project Board)](https://github.com/users/deybar/projects/5)
+
+---
+
+## 📌 Product Backlog
+
+- PB-01: Descargar y cargar dataset Dry Bean
+- PB-02: Análisis Exploratorio y Calidad de Datos
+- PB-03: Modelo Baseline - Logistic Regression
+- PB-04: Modelo Mejorado - Random Forest
+- PB-05: Evaluación y Comparación de Modelos
+- PB-06: Matriz de Confusión y Visualizaciones
+- PB-07: Revisión y Aprobación (Product Owner)
+- PB-08: Guardar Modelo y Preparar Entrega
 
 ---
 
