@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Datos grandes
+data/raw/*.zip
+*.joblib
+*.pkl
+
+# Notebooks temporales
+.ipynb_checkpoints/
+.DS_Store
