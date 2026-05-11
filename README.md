@@ -82,14 +82,15 @@ laboratorio_drybean_ml/
 
 ## 📌 Product Backlog
 
-- PB-01: Descargar y cargar dataset Dry Bean
-- PB-02: Análisis Exploratorio y Calidad de Datos
-- PB-03: Modelo Baseline - Logistic Regression
-- PB-04: Modelo Mejorado - Random Forest
-- PB-05: Evaluación y Comparación de Modelos
-- PB-06: Matriz de Confusión y Visualizaciones
-- PB-07: Revisión y Aprobación (Product Owner)
-- PB-08: Guardar Modelo y Preparar Entrega
+
+- [x] PB-01: Descargar y cargar dataset Dry Bean
+- [x] PB-02: Análisis Exploratorio y Calidad de Datos
+- [x] PB-03: Modelo Baseline - Logistic Regression
+- [x] PB-04: Modelo Mejorado - Random Forest
+- [x] PB-05: Evaluación y Comparación de Modelos
+- [x] PB-06: Matriz de Confusión y Visualizaciones
+- [ ] PB-07: Revisión y Aprobación (Product Owner)
+- [x] PB-08: Guardar Modelo y Preparar Entrega
 
 ---
 
@@ -230,10 +231,20 @@ Uso exclusivamente educativo y académico.
 # 📌 Estado del Proyecto
 
 ```diff
-+ 🚧 Sprint 1 en progreso
++ ✅ Sprint 2 Finalizado - Modelado y Evaluación completo
+- 🚧 Sprint 3 en planeación
 ```
 
 ---
+
+# 📊 Resultados Obtenidos (Sprint 2)
+
+Tras la fase de experimentación, se obtuvieron los siguientes resultados:
+
+* **Modelo Seleccionado:** Random Forest Classifier.
+* **Accuracy:** 92%.
+* **F1-Score (Macro):** 0.93.
+* **Hallazgo Clave:** El perímetro y el área son las variables con mayor poder predictivo para diferenciar las variedades de frijol.
 
 <div align="center">
 
