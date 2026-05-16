@@ -89,7 +89,7 @@ laboratorio_drybean_ml/
 - [x] PB-04: Modelo Mejorado - Random Forest
 - [x] PB-05: Evaluación y Comparación de Modelos
 - [x] PB-06: Matriz de Confusión y Visualizaciones
-- [ ] PB-07: Revisión y Aprobación (Product Owner)
+- [x] PB-07: Revisión y Aprobación (Product Owner)
 - [x] PB-08: Guardar Modelo y Preparar Entrega
 
 ---
