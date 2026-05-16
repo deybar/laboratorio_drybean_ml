@@ -232,7 +232,7 @@ Uso exclusivamente educativo y académico.
 
 ```diff
 + ✅ Sprint 2 Finalizado - Modelado y Evaluación completo
-- ✅ Sprint 3 Finalizado
++ ✅ Sprint 3 Finalizado
 ```
 
 ---
